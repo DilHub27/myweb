@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DilHub27/myweb/static/css/main.3e6a8122.css",
+    "main.js": "/DilHub27/myweb/static/js/main.4424b780.js",
+    "static/js/453.f50e4c12.chunk.js": "/DilHub27/myweb/static/js/453.f50e4c12.chunk.js",
+    "index.html": "/DilHub27/myweb/index.html",
+    "main.3e6a8122.css.map": "/DilHub27/myweb/static/css/main.3e6a8122.css.map",
+    "main.4424b780.js.map": "/DilHub27/myweb/static/js/main.4424b780.js.map",
+    "453.f50e4c12.chunk.js.map": "/DilHub27/myweb/static/js/453.f50e4c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e6a8122.css",
+    "static/js/main.4424b780.js"
+  ]
+}
